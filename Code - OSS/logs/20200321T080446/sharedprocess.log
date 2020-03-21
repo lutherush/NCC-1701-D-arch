@@ -1,0 +1,29 @@
+[2020-03-21 08:04:49.655] [sharedprocess] [info] main {"machineId":"d3db766eec9b8c4b85ed354b36bd552c1f3abace2a30c46984553f093cd316c3","windowId":2}
+[2020-03-21 08:05:01.394] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2020-03-21 08:05:05.939] [sharedprocess] [info] Downloaded extension: vscodevim.vim /tmp/178c7745-6583-4529-9597-27dfa4340ad1
+[2020-03-21 08:05:09.378] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2020-03-21 08:05:09.771] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.vscodevim.vim-1.13.0: vscodevim.vim
+[2020-03-21 08:05:09.771] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/vscodevim.vim-1.13.0
+[2020-03-21 08:05:09.773] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2020-03-21 08:05:09.797] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2020-03-21 08:05:10.033] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /tmp/8b92b91f-a224-4566-863c-d6732422301a
+[2020-03-21 08:05:10.062] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.dbaeumer.vscode-eslint-2.1.1: dbaeumer.vscode-eslint
+[2020-03-21 08:05:10.062] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.1.1
+[2020-03-21 08:05:10.064] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2020-03-21 08:05:10.071] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2020-03-21 08:05:13.002] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-03-21 08:05:16.133] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2020-03-21 08:05:25.292] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2020-03-21 08:05:29.649] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-03-21 08:05:32.449] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /tmp/60f94b91-5c69-4ab6-849b-06a2bebc7e1c
+[2020-03-21 08:05:34.412] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2020-03-21 08:05:34.736] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.ms-azuretools.vscode-docker-1.0.0: ms-azuretools.vscode-docker
+[2020-03-21 08:05:34.736] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.0.0
+[2020-03-21 08:05:34.743] [sharedprocess] [info] Installation completed. ms-azuretools.vscode-docker
+[2020-03-21 08:05:34.810] [sharedprocess] [info] Extensions installed successfully: ms-azuretools.vscode-docker
+[2020-03-21 08:05:49.137] [sharedprocess] [info] Downloaded extension: formulahendry.code-runner /tmp/57b8fcb6-431a-4614-8f77-b00a9dee4bcb
+[2020-03-21 08:05:49.351] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.formulahendry.code-runner-0.9.17: formulahendry.code-runner
+[2020-03-21 08:05:49.351] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/formulahendry.code-runner-0.9.17
+[2020-03-21 08:05:49.352] [sharedprocess] [info] Installation completed. formulahendry.code-runner
+[2020-03-21 08:05:49.362] [sharedprocess] [info] Extensions installed successfully: formulahendry.code-runner
+[2020-03-21 08:06:01.782] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/c7a7daa6-6454-4257-b942-c4d5d0a3d07b

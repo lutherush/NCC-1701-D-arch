@@ -1,0 +1,166 @@
+[2020-03-21 18:54:28.570] [sharedprocess] [info] main {"machineId":"d3db766eec9b8c4b85ed354b36bd552c1f3abace2a30c46984553f093cd316c3","windowId":2}
+[2020-03-21 18:54:35.805] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-03-21 18:54:48.932] [sharedprocess] [info] Installing extension: redhat.vscode-yaml
+[2020-03-21 18:54:51.119] [sharedprocess] [info] Installing extension: ms-vscode.go
+[2020-03-21 18:54:52.919] [sharedprocess] [info] Installing extension: ecmel.vscode-html-css
+[2020-03-21 18:54:58.312] [sharedprocess] [info] Downloaded extension: ecmel.vscode-html-css /tmp/0354ec2d-31b2-454f-986a-d96bfc9dfa96
+[2020-03-21 18:54:58.369] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.ecmel.vscode-html-css-0.2.3: ecmel.vscode-html-css
+[2020-03-21 18:54:58.369] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/ecmel.vscode-html-css-0.2.3
+[2020-03-21 18:54:58.370] [sharedprocess] [info] Installation completed. ecmel.vscode-html-css
+[2020-03-21 18:54:58.378] [sharedprocess] [info] Extensions installed successfully: ecmel.vscode-html-css
+[2020-03-21 18:55:00.200] [sharedprocess] [info] Installing extension: austin.code-gnu-global
+[2020-03-21 18:55:03.349] [sharedprocess] [info] Downloaded extension: austin.code-gnu-global /tmp/5f4b7eb8-729f-4c51-b834-4c22d4ae0925
+[2020-03-21 18:55:03.440] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.austin.code-gnu-global-0.2.2: austin.code-gnu-global
+[2020-03-21 18:55:03.440] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/austin.code-gnu-global-0.2.2
+[2020-03-21 18:55:03.441] [sharedprocess] [info] Installation completed. austin.code-gnu-global
+[2020-03-21 18:55:03.450] [sharedprocess] [info] Extensions installed successfully: austin.code-gnu-global
+[2020-03-21 18:55:04.055] [sharedprocess] [info] Installing extension: tht13.python
+[2020-03-21 18:55:08.393] [sharedprocess] [info] Downloaded extension: tht13.python /tmp/e6d991df-e458-4a70-88a5-22d44023007d
+[2020-03-21 18:55:08.549] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-03-21 18:55:08.622] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.tht13.python-0.2.3: tht13.python
+[2020-03-21 18:55:08.623] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/tht13.python-0.2.3
+[2020-03-21 18:55:08.624] [sharedprocess] [info] Installation completed. tht13.python
+[2020-03-21 18:55:08.636] [sharedprocess] [info] Extensions installed successfully: tht13.python
+[2020-03-21 18:55:09.933] [sharedprocess] [info] Installing extension: magicstack.magicpython
+[2020-03-21 18:55:14.730] [sharedprocess] [info] Installing extension: lonefy.vscode-js-css-html-formatter
+[2020-03-21 18:55:14.773] [sharedprocess] [info] Downloaded extension: redhat.vscode-yaml /tmp/6ec2b902-8b94-402e-89fb-103089b56fd7
+[2020-03-21 18:55:17.380] [sharedprocess] [info] Installing extension: hollowtree.vue-snippets
+[2020-03-21 18:55:17.411] [sharedprocess] [info] Downloaded extension: magicstack.magicpython /tmp/8f8ed52c-4b15-4bd8-bcfb-91b57b9af9eb
+[2020-03-21 18:55:18.145] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.magicstack.magicpython-1.1.0: magicstack.magicpython
+[2020-03-21 18:55:18.145] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/magicstack.magicpython-1.1.0
+[2020-03-21 18:55:18.147] [sharedprocess] [info] Installation completed. magicstack.magicpython
+[2020-03-21 18:55:18.167] [sharedprocess] [info] Extensions installed successfully: magicstack.magicpython
+[2020-03-21 18:55:20.721] [sharedprocess] [info] Installing extension: batisteo.vscode-django
+[2020-03-21 18:55:20.749] [sharedprocess] [info] Downloaded extension: lonefy.vscode-js-css-html-formatter /tmp/cc1f0a65-4ff6-42be-9617-3a14d51af565
+[2020-03-21 18:55:20.749] [sharedprocess] [info] Downloaded extension: ms-vscode.go /tmp/0f5611d2-ac95-478b-97d8-f180570b370b
+[2020-03-21 18:55:20.750] [sharedprocess] [info] Downloaded extension: hollowtree.vue-snippets /tmp/1013aec0-beb4-4846-be0b-1b7d45174786
+[2020-03-21 18:55:20.851] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.hollowtree.vue-snippets-0.1.11: hollowtree.vue-snippets
+[2020-03-21 18:55:20.852] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/hollowtree.vue-snippets-0.1.11
+[2020-03-21 18:55:20.855] [sharedprocess] [info] Installation completed. hollowtree.vue-snippets
+[2020-03-21 18:55:20.873] [sharedprocess] [info] Extensions installed successfully: hollowtree.vue-snippets
+[2020-03-21 18:55:21.357] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.redhat.vscode-yaml-0.7.2: redhat.vscode-yaml
+[2020-03-21 18:55:21.359] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/redhat.vscode-yaml-0.7.2
+[2020-03-21 18:55:21.361] [sharedprocess] [info] Installation completed. redhat.vscode-yaml
+[2020-03-21 18:55:21.378] [sharedprocess] [info] Extensions installed successfully: redhat.vscode-yaml
+[2020-03-21 18:55:21.555] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.lonefy.vscode-js-css-html-formatter-0.2.3: lonefy.vscode-js-css-html-formatter
+[2020-03-21 18:55:21.555] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/lonefy.vscode-js-css-html-formatter-0.2.3
+[2020-03-21 18:55:21.556] [sharedprocess] [info] Installation completed. lonefy.vscode-js-css-html-formatter
+[2020-03-21 18:55:21.569] [sharedprocess] [info] Extensions installed successfully: lonefy.vscode-js-css-html-formatter
+[2020-03-21 18:55:22.505] [sharedprocess] [info] Installing extension: mitaki28.vscode-clang
+[2020-03-21 18:55:27.919] [sharedprocess] [info] Installing extension: james-yu.latex-workshop
+[2020-03-21 18:55:27.931] [sharedprocess] [info] Downloaded extension: mitaki28.vscode-clang /tmp/f7956bea-27c1-4f83-a094-38fd4de2ee10
+[2020-03-21 18:55:27.982] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.mitaki28.vscode-clang-0.2.3: mitaki28.vscode-clang
+[2020-03-21 18:55:27.982] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/mitaki28.vscode-clang-0.2.3
+[2020-03-21 18:55:27.984] [sharedprocess] [info] Installation completed. mitaki28.vscode-clang
+[2020-03-21 18:55:27.993] [sharedprocess] [info] Extensions installed successfully: mitaki28.vscode-clang
+[2020-03-21 18:55:31.799] [sharedprocess] [info] Installing extension: vsciot-vscode.vscode-arduino
+[2020-03-21 18:55:32.015] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.ms-vscode.go-0.13.1: ms-vscode.go
+[2020-03-21 18:55:32.015] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/ms-vscode.go-0.13.1
+[2020-03-21 18:55:32.017] [sharedprocess] [info] Installation completed. ms-vscode.go
+[2020-03-21 18:55:32.040] [sharedprocess] [info] Extensions installed successfully: ms-vscode.go
+[2020-03-21 18:55:34.201] [sharedprocess] [info] Installing extension: rbbit.typescript-hero
+[2020-03-21 18:55:36.242] [sharedprocess] [info] Installing extension: leizongmin.node-module-intellisense
+[2020-03-21 18:55:38.892] [sharedprocess] [info] Installing extension: mechatroner.rainbow-csv
+[2020-03-21 18:55:41.421] [sharedprocess] [info] Downloaded extension: leizongmin.node-module-intellisense /tmp/57f3684e-78b6-4eee-8c6b-9848a92c79e8
+[2020-03-21 18:55:41.447] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.leizongmin.node-module-intellisense-1.5.0: leizongmin.node-module-intellisense
+[2020-03-21 18:55:41.452] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/leizongmin.node-module-intellisense-1.5.0
+[2020-03-21 18:55:41.454] [sharedprocess] [info] Installation completed. leizongmin.node-module-intellisense
+[2020-03-21 18:55:41.470] [sharedprocess] [info] Extensions installed successfully: leizongmin.node-module-intellisense
+[2020-03-21 18:55:42.762] [sharedprocess] [info] Installing extension: mgmcdermott.vscode-language-babel
+[2020-03-21 18:55:44.217] [sharedprocess] [info] Downloaded extension: mechatroner.rainbow-csv /tmp/47c88e42-a4c3-48fe-a849-2bda157f3d36
+[2020-03-21 18:55:44.271] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.mechatroner.rainbow-csv-1.6.0: mechatroner.rainbow-csv
+[2020-03-21 18:55:44.271] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/mechatroner.rainbow-csv-1.6.0
+[2020-03-21 18:55:44.272] [sharedprocess] [info] Installation completed. mechatroner.rainbow-csv
+[2020-03-21 18:55:44.282] [sharedprocess] [info] Extensions installed successfully: mechatroner.rainbow-csv
+[2020-03-21 18:55:45.494] [sharedprocess] [info] Installing extension: rust-lang.rust
+[2020-03-21 18:55:49.035] [sharedprocess] [info] Installing extension: tht13.html-preview-vscode
+[2020-03-21 18:55:51.260] [sharedprocess] [info] Downloaded extension: rust-lang.rust /tmp/c8590cb6-037d-4354-a699-7e16c1f56e6c
+[2020-03-21 18:55:51.329] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.rust-lang.rust-0.7.0: rust-lang.rust
+[2020-03-21 18:55:51.329] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/rust-lang.rust-0.7.0
+[2020-03-21 18:55:51.330] [sharedprocess] [info] Installation completed. rust-lang.rust
+[2020-03-21 18:55:51.340] [sharedprocess] [info] Extensions installed successfully: rust-lang.rust
+[2020-03-21 18:55:51.442] [sharedprocess] [info] Installing extension: mkaufman.htmlhint
+[2020-03-21 18:55:52.909] [sharedprocess] [info] Installing extension: danielpinto8zz6.c-cpp-compile-run
+[2020-03-21 18:55:54.475] [sharedprocess] [info] Downloaded extension: mgmcdermott.vscode-language-babel /tmp/f43e5727-2e88-410a-ad5b-3eb25eb2295d
+[2020-03-21 18:55:54.562] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.mgmcdermott.vscode-language-babel-0.0.26: mgmcdermott.vscode-language-babel
+[2020-03-21 18:55:54.562] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/mgmcdermott.vscode-language-babel-0.0.26
+[2020-03-21 18:55:54.565] [sharedprocess] [info] Installation completed. mgmcdermott.vscode-language-babel
+[2020-03-21 18:55:54.575] [sharedprocess] [info] Extensions installed successfully: mgmcdermott.vscode-language-babel
+[2020-03-21 18:55:55.547] [sharedprocess] [info] Installing extension: georgewfraser.vscode-javac
+[2020-03-21 18:55:56.378] [sharedprocess] [info] Installing extension: dzannotti.vscode-babel-coloring
+[2020-03-21 18:55:57.357] [sharedprocess] [info] Installing extension: jcbuisson.vue
+[2020-03-21 18:55:58.844] [sharedprocess] [info] Downloaded extension: danielpinto8zz6.c-cpp-compile-run /tmp/86897b1c-357d-4341-a3c8-770df4fbaf8e
+[2020-03-21 18:55:58.947] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.danielpinto8zz6.c-cpp-compile-run-1.0.5: danielpinto8zz6.c-cpp-compile-run
+[2020-03-21 18:55:58.948] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/danielpinto8zz6.c-cpp-compile-run-1.0.5
+[2020-03-21 18:55:58.948] [sharedprocess] [info] Installation completed. danielpinto8zz6.c-cpp-compile-run
+[2020-03-21 18:55:58.964] [sharedprocess] [info] Extensions installed successfully: danielpinto8zz6.c-cpp-compile-run
+[2020-03-21 18:56:10.150] [sharedprocess] [info] Installing extension: formulahendry.auto-complete-tag
+[2020-03-21 18:56:12.457] [sharedprocess] [info] Downloaded extension: jcbuisson.vue /tmp/0e5bb2e4-227d-4f25-a6d8-66c2d548926f
+[2020-03-21 18:56:12.481] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.jcbuisson.vue-0.1.5: jcbuisson.vue
+[2020-03-21 18:56:12.481] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/jcbuisson.vue-0.1.5
+[2020-03-21 18:56:12.482] [sharedprocess] [info] Installation completed. jcbuisson.vue
+[2020-03-21 18:56:12.490] [sharedprocess] [info] Extensions installed successfully: jcbuisson.vue
+[2020-03-21 18:56:15.218] [sharedprocess] [info] Downloaded extension: tht13.html-preview-vscode /tmp/18084eb5-815d-49a2-9861-154696b1858c
+[2020-03-21 18:56:40.885] [sharedprocess] [info] Downloaded extension: formulahendry.auto-complete-tag /tmp/0cf5e6ce-4f69-4e95-98be-dee3da356e4c
+[2020-03-21 18:56:40.885] [sharedprocess] [info] Downloaded extension: dzannotti.vscode-babel-coloring /tmp/754a6831-757d-4eec-90c4-f64d25c678df
+[2020-03-21 18:56:40.888] [sharedprocess] [info] Downloaded extension: vsciot-vscode.vscode-arduino /tmp/1f4c7817-4adf-428e-82b6-468adb0ef055
+[2020-03-21 18:56:40.906] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.formulahendry.auto-complete-tag-0.1.0: formulahendry.auto-complete-tag
+[2020-03-21 18:56:40.906] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/formulahendry.auto-complete-tag-0.1.0
+[2020-03-21 18:56:40.908] [sharedprocess] [info] Installation completed. formulahendry.auto-complete-tag
+[2020-03-21 18:56:41.005] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.dzannotti.vscode-babel-coloring-0.0.4: dzannotti.vscode-babel-coloring
+[2020-03-21 18:56:41.006] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/dzannotti.vscode-babel-coloring-0.0.4
+[2020-03-21 18:56:41.006] [sharedprocess] [info] Installation completed. dzannotti.vscode-babel-coloring
+[2020-03-21 18:56:41.017] [sharedprocess] [info] Extensions installed successfully: dzannotti.vscode-babel-coloring
+[2020-03-21 18:56:41.320] [sharedprocess] [info] Installing extension: formulahendry.auto-close-tag
+[2020-03-21 18:56:41.320] [sharedprocess] [info] Installing extension: formulahendry.auto-rename-tag
+[2020-03-21 18:56:41.762] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.vsciot-vscode.vscode-arduino-0.2.29: vsciot-vscode.vscode-arduino
+[2020-03-21 18:56:41.762] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/vsciot-vscode.vscode-arduino-0.2.29
+[2020-03-21 18:56:41.763] [sharedprocess] [info] Installation completed. vsciot-vscode.vscode-arduino
+[2020-03-21 18:56:41.819] [sharedprocess] [info] Extensions installed successfully: vsciot-vscode.vscode-arduino
+[2020-03-21 18:56:42.229] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.tht13.html-preview-vscode-0.2.5: tht13.html-preview-vscode
+[2020-03-21 18:56:42.229] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/tht13.html-preview-vscode-0.2.5
+[2020-03-21 18:56:42.230] [sharedprocess] [info] Installation completed. tht13.html-preview-vscode
+[2020-03-21 18:56:42.243] [sharedprocess] [info] Extensions installed successfully: tht13.html-preview-vscode
+[2020-03-21 18:56:45.321] [sharedprocess] [info] Downloaded extension: batisteo.vscode-django /tmp/86e14eab-2910-4222-9550-bf72dc75eca2
+[2020-03-21 18:56:48.349] [sharedprocess] [info] Downloaded extension: formulahendry.auto-rename-tag /tmp/028f3a53-b74f-4b65-a00e-10d54e0feffd
+[2020-03-21 18:56:48.376] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.formulahendry.auto-rename-tag-0.1.1: formulahendry.auto-rename-tag
+[2020-03-21 18:56:48.377] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/formulahendry.auto-rename-tag-0.1.1
+[2020-03-21 18:56:48.378] [sharedprocess] [info] Installation completed. formulahendry.auto-rename-tag
+[2020-03-21 18:56:48.394] [sharedprocess] [info] Extensions installed successfully: formulahendry.auto-rename-tag
+[2020-03-21 18:56:48.530] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.batisteo.vscode-django-0.20.0: batisteo.vscode-django
+[2020-03-21 18:56:48.530] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/batisteo.vscode-django-0.20.0
+[2020-03-21 18:56:48.531] [sharedprocess] [info] Installation completed. batisteo.vscode-django
+[2020-03-21 18:56:48.544] [sharedprocess] [info] Extensions installed successfully: batisteo.vscode-django
+[2020-03-21 18:56:54.188] [sharedprocess] [info] Downloaded extension: formulahendry.auto-close-tag /tmp/3af60dc2-3660-47b2-a8b7-112507430989
+[2020-03-21 18:56:54.217] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.formulahendry.auto-close-tag-0.5.6: formulahendry.auto-close-tag
+[2020-03-21 18:56:54.217] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/formulahendry.auto-close-tag-0.5.6
+[2020-03-21 18:56:54.218] [sharedprocess] [info] Installation completed. formulahendry.auto-close-tag
+[2020-03-21 18:56:54.228] [sharedprocess] [info] Extensions installed successfully: formulahendry.auto-close-tag
+[2020-03-21 18:56:54.229] [sharedprocess] [info] Extensions installed successfully: formulahendry.auto-complete-tag
+[2020-03-21 18:56:56.121] [sharedprocess] [info] Downloaded extension: mkaufman.htmlhint /tmp/46581304-cf49-413b-b2c8-ef87c655a590
+[2020-03-21 18:57:27.594] [sharedprocess] [info] Downloaded extension: rbbit.typescript-hero /tmp/132aa35c-ccad-43ff-a419-200980030358
+[2020-03-21 18:57:27.598] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/a35c2819-4089-4f9b-9382-1f013dd213ef
+[2020-03-21 18:57:30.475] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.mkaufman.htmlhint-0.6.0: mkaufman.htmlhint
+[2020-03-21 18:57:30.476] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/mkaufman.htmlhint-0.6.0
+[2020-03-21 18:57:30.477] [sharedprocess] [info] Installation completed. mkaufman.htmlhint
+[2020-03-21 18:57:30.499] [sharedprocess] [info] Extensions installed successfully: mkaufman.htmlhint
+[2020-03-21 18:57:31.782] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.rbbit.typescript-hero-3.0.0: rbbit.typescript-hero
+[2020-03-21 18:57:31.783] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/rbbit.typescript-hero-3.0.0
+[2020-03-21 18:57:31.786] [sharedprocess] [info] Installation completed. rbbit.typescript-hero
+[2020-03-21 18:57:31.811] [sharedprocess] [info] Extensions installed successfully: rbbit.typescript-hero
+[2020-03-21 18:59:44.954] [sharedprocess] [info] Downloaded extension: james-yu.latex-workshop /tmp/f820c426-0ec6-4455-a8ab-10e627a6957a
+[2020-03-21 18:59:45.220] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.ms-python.python-2020.3.69010: ms-python.python
+[2020-03-21 18:59:45.220] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/ms-python.python-2020.3.69010
+[2020-03-21 18:59:45.228] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-03-21 18:59:45.249] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2020-03-21 19:00:13.287] [sharedprocess] [info] Installing extension: searking.preview-vscode
+[2020-03-21 19:00:14.861] [sharedprocess] [info] Installing extension: george-alisson.html-preview-vscode
+[2020-03-21 19:00:15.059] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.james-yu.latex-workshop-8.7.2: james-yu.latex-workshop
+[2020-03-21 19:00:15.060] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/james-yu.latex-workshop-8.7.2
+[2020-03-21 19:00:15.063] [sharedprocess] [info] Installation completed. james-yu.latex-workshop
+[2020-03-21 19:00:15.083] [sharedprocess] [info] Extensions installed successfully: james-yu.latex-workshop
+[2020-03-21 19:00:23.516] [sharedprocess] [info] Downloaded extension: george-alisson.html-preview-vscode /tmp/19bdc5f6-3766-4196-92d2-c856950c10ea
+[2020-03-21 19:00:44.906] [sharedprocess] [info] Extracted extension to /home/lutherus/.vscode-oss/extensions/.george-alisson.html-preview-vscode-0.2.5: george-alisson.html-preview-vscode
+[2020-03-21 19:00:44.906] [sharedprocess] [info] Renamed to /home/lutherus/.vscode-oss/extensions/george-alisson.html-preview-vscode-0.2.5
+[2020-03-21 19:00:44.909] [sharedprocess] [info] Installation completed. george-alisson.html-preview-vscode
+[2020-03-21 19:00:44.928] [sharedprocess] [info] Extensions installed successfully: george-alisson.html-preview-vscode

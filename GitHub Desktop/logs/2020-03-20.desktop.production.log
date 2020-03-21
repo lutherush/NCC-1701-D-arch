@@ -1,0 +1,24 @@
+2020-03-20T12:18:28.938Z - info: [ui] [AppStore] loading 0 repositories from store
+2020-03-20T12:18:28.959Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-03-20T12:18:29.081Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-03-20T12:18:29.109Z - info: [ui] launching: 2.3.1-linux1 (Linux 5.5.10-arch1-1)
+2020-03-20T12:18:29.109Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2020-03-20T12:18:29.131Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-03-20T12:18:29.552Z - info: [ui] Opt in reported.
+2020-03-20T12:18:32.334Z - info: [ui] [Welcome] advancing to step: SignInToDotCom
+2020-03-20T12:18:32.338Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2020-03-20T12:18:39.567Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2020-03-20T12:18:40.998Z - info: [ui] [AppStore] adding account lutherush (lutherush) to store
+2020-03-20T12:18:41.015Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2020-03-20T12:18:41.075Z - error: [ui] Error adding account 'lutherush'
+Error: No such interface “org.freedesktop.Secret.Collection” on object at path /org/freedesktop/secrets/collection/login
+2020-03-20T12:18:41.098Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-03-20T12:18:44.099Z - info: [ui] [Welcome] advancing to step: UsageOptOut
+2020-03-20T12:18:45.507Z - info: [ui] Opt in reported.
+2020-03-20T12:19:22.066Z - info: [ui] [AppStore] adding repository at /home/lutherus/builds/git/vbaksapage/vbaksa to store
+2020-03-20T12:19:22.255Z - info: [ui] Current tutorial step is NotApplicable
+2020-03-20T12:19:22.457Z - info: [ui] Current tutorial step is NotApplicable
+2020-03-20T12:19:40.491Z - info: [ui] [AppStore] adding account lutherush (lutherush) to store
+2020-03-20T12:19:40.520Z - error: [ui] Error adding account 'lutherush'
+Error: No such interface “org.freedesktop.Secret.Collection” on object at path /org/freedesktop/secrets/collection/login
+2020-03-20T12:19:46.403Z - info: [ui] Current tutorial step is NotApplicable

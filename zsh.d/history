@@ -1,0 +1,1049 @@
+cargo run
+..
+cd vbaksa-cv-c
+ls
+git init
+git push -u origin master\
+\
+
+git add README.md
+git remote add origin git@github.com:lutherush/vbaksa-cv-c.git
+git push -u origin master
+ls
+git remote add origin git@github.com:lutherush/vbaksa-cv-c.git
+echo "# vbaksa-cv-c" >> README.md
+git init
+ git commit -m "my cv made in c"
+cd builds
+gcc resume.c
+ls
+cd 
+cd scripts
+cd vbaksa-cv-c
+gcc resume.c
+cd scripts/vbaksa-cv-rust
+vim 
+cargo start
+cargo run
+cd builds/TwentySecondsCurriculumVitae-LaTex
+make
+pdflatex -interaction=nonstopmode Twenty-Seconds_cv.tex 
+ls
+pdftex Twenty-Seconds_cv.tex
+cd scripts/vbaksa-cv-rust
+git clone https://github.com/lutherus/lutherus.github.io
+git clone https://github.com/lutherush/lutherus.github.io
+ls
+cd lutherus.github.io
+echo "Hello World" > index.html
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
+git push -u origin master
+cd builds
+git clone https://github.com/BlackrockDigital/startbootstrap-resume.git
+cd startbootstrap-resume
+npm start
+npm install
+npm start
+npm start
+cd 
+cd builds
+cd git
+clear
+git clone https://github.com/lutherush/lutherush.github.io
+git clone https://github.com/lutherush/lutherush.github.io
+ls
+cd lutherush.github.io
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
+git push -u origin master
+git@github.com:lutherush/lutherush.github.io.git
+git push -u origin master
+git remote add origin https://github.com/lutherush/lutherush.github.io.git
+git push -u origin master
+git push -u origin master
+cd
+cd builds/git
+git clone https://github.com/lutherush/vbaksa-resume.github.io
+cd vbaksa-resume.github.io
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
+vifm
+cd
+cd builds
+git clone
+git clone https://github.com/agurodriguez/bashme.git
+cd bashme
+ls
+npm install
+npm start
+ls
+cd example
+l
+npm start
+..
+ls
+\
+\
+var bashme = new Bashme.Bashme();\
+bashme.use(new Bashme.GitHub('agurodriguez'));\
+bashme.show(document.querySelector('#bashme'));
+cd example
+ls
+firefox index.html
+cd builds
+git clone https://github.com/lutherush/android-ffmpeg.git
+cd android-ffmpeg
+ls
+git init
+git commit -m "first commit"\
+
+git add README.md
+git add README.txt 
+git add all
+git remote add origin https://github.com/lutherush/android-ffmpeg.git
+git push -u origin master
+ls
+git remote add origin https://github.com/lutherush/android-ffmpeg.git
+git push -u origin master
+git push -u origin master
+git commit -m "initial commit"
+git push -u origin master
+git push -u origin master
+..
+..
+git clone https://github.com/rabite0/hunter.git
+cd hunter
+ls
+cargo build
+trizen hunter
+cd builds/git/vbaksa-cv-rust
+cargo run
+cd builds/git
+ls
+cd vbaksa_npm_cv
+ls
+node index.js
+clear
+node index.js
+git init
+git add README.md
+git commit -m "first commit"
+git add .
+git push -u origin master
+git push -u origin master
+ls
+git remote add origin https://github.com/lutherush/vbaksa-npm-cv.git
+ls
+git push -u origin master
+ls
+echo "# vbaksa-npm-cv" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/lutherush/vbaksa-npm-cv.git
+git push -u origin master
+git add .
+git push -u origin master
+hunter
+sudo pacman -Rnsc libreoffice
+sudo pacman -Rnsc 
+sudo pacman -Rnsc libreoffice
+sudo pacman -Rnsc LibreOffice
+sudo pacman -Rnsc LibreOffice-still
+sudo pacman -Rnsc LibreOffice-fresh
+libreoffice -version
+sudo pacman -Rnsc libreoffice-still
+sudo pacman -Rnsc libreoffice-fresh
+sudo pacman -Rnsc hunter
+..
+cd vbaksa-cv-rust
+cargo run
+cargo build
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -S rust
+cargo build
+cargo run
+cd
+trizen gotop
+gotop
+trizen ranger
+sudo pacman -S xmonad xmonad-contrib
+cd
+sudo pacman -Syy
+sudo pacman -Syy
+sudo pacman -Rnsc nautilus
+sudo pacman -Rnsc nautilus
+annie
+pacman -Rns $(pacman -Qtdq)
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Syu
+vim .config/zsh.d/aliases
+sudo pacman -S cabal-install
+sudo cabal install clifm
+cabal update
+cd builds
+git clone https://github.com/pasqu4le/clifm.git
+cd clifm
+cabal install\
+
+cabal install update
+cabal update
+cd builds/git/vbaksa-cv-rust
+cat src/main.rs
+nano src/main.rs
+cd scripts
+vim
+python def.py
+vim
+python defy.py
+pip install ceasar_encryption
+pip install ceasar-encryption
+cabal install
+cabal install clifm
+cd
+cabal install clifm
+sudo cabal install clifm
+vim
+chmod +x option.sh
+./option.sh
+./option.sh
+vim
+chmod +x dialog.sh
+./dialog.sh
+vim
+chmod +x demo.sh
+./demo.sh
+vim
+chmod +x demsy.sh
+./demsy.sh
+./demsy.sh
+vim
+chmod +x take.sh
+./take.sh
+vim
+chmod +x cv.sh
+./cv.sh
+vim cv.sh
+cd scripts
+./cv.sh
+cd scripts
+./cv.sh
+cd scripts
+mkdir c
+cd c
+vim
+gcc numberguess.cpp
+vim
+gcc invoice.cpp
+git clone https://github.com/dgonza12/Invoice-Maker.git
+cd Invoice-Maker
+ls
+cmake
+sudo pacman -S cmake
+cmake
+gcc Invoice.cpp
+..
+git clone https://github.com/vickykr1998/product_bill.git
+cd product_bill
+gcc bh.cpp
+..
+vim
+gcc recume.c
+..
+..
+cd builds
+git clone https://github.com/saadq/resumake.io.git
+cd resumake.io
+ls
+npm install
+npm start
+yarn install
+npm install yarn
+yarn install
+npm audit fix
+npm audit fix --force
+cd builds/resumake.io
+cd app
+cd client
+cd app
+cd server
+npm install
+cd scripts
+git clone
+git clone https://github.com/zimmertr/Personal-Website-With-JS-Terminal-Emulator.git
+npm install
+npm start
+npm start
+cd 
+cd scripts/Personal-Website-With-JS-Terminal-Emulator
+ls
+openjdk
+jdk
+xset -s
+xset -S
+xset -dmps
+xset dmps
+xset dpms
+vim .xinitrc
+xset s off
+vim .xinitrc
+sudo pacman -S xsetroot
+sudo pacman -S feh
+feh --bg-scale ~/wallpapers/wallhaven-13mk9v.jpg
+feh --bg-scale ~/wallpapers/wallhaven-39gogv.jpg
+feh --bg-scale ~/wallpapers/wallhaven-5w6j85.jpg
+vim .xinitrc
+xset -s off
+xset s off
+xset -dpms
+cd scripts
+mkdir nodejs
+cd nodejs
+npm install -g bluerain
+npm install -g create-flex-plugin\
+
+cd builds/git/vbaksa_npm_cv
+node index.js
+cdbu
+cd builds/
+l
+cd startbootstrap-resume
+ls
+npm install
+npm start
+cd 
+cd  scripts
+ls
+cd Personal-Website-With-JS-Terminal-Emulator
+clear
+ls
+cd cgi-bin
+ls
+..
+vim index.html
+ls
+cd files
+ls
+cd misc
+l
+,,
+..
+cd js
+ls
+vim shell.js
+vim classie.js
+vim jquery-3.1.0.min.js
+..
+cd css
+ls
+vim page.css
+..
+cd js
+vim shell.js
+sudo mount 
+sudo pacman -S nmap
+nmap -S 192.168.1.1/24
+nmap -Sn 192.168.1.1/24
+nmap -sP 192.168.1.1/24
+nmap -sPn 192.168.1.1/24
+nmap -R 192.168.1.1/24
+sudo pacman -S net-tool
+sudo pacman -S net-tools
+arp 192.168.1.1
+arp 192.168.1.1/2
+arp -a 192.168.1.1/2
+arp -a 192.168.1.1
+nmap -sP 192.168.1.1/24
+sudo pacman -S nautilus
+cd builds
+git clone https://github.com/CodeExplainedRepo/Ping-Pong-Game-JavaScript.git
+cd Ping-Pong-Game-JavaScript
+ls
+octave
+cd builds
+git clone https://github.com/german/pong.git
+cd pong
+ls
+npm install
+node server.js
+cd
+cd
+trizen unity-editor
+cd scripts/nodejs
+mkdir ginit
+cd ginit
+npm init -y
+vim package.json
+npm install chalk clear clui figlet inquirer minimist configstore @octokit/rest @octokit/auth-basic lodash simple-git touch\
+
+cd scripts
+mkdir rust
+cd rust
+cargo new rget --bin
+cd rget
+tree
+ls
+vim Cargo.toml
+vim src/main.rs
+cargo run
+vim Cargo.toml
+cargo run
+cargo run -- -h
+vim src/main.rs
+cargo run 
+cd
+cd scripts/nodejs/ginit
+vim 
+cd
+cd builds/git/vbaksapage
+echo "# vbaksa.github.io" >> README.md
+vim README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/lutherush/vbaksa.github.io.git
+git push -u origin master
+git push -u origin master
+git add .
+git push -u origin master
+ls
+git push origin master
+git add .
+git commit -m 'initial commit'  
+git push origin master
+vim index.html
+annie
+sudo annie
+sudo pacman -Rns $(pacman -Qtdq)\
+
+git push origin master
+git pull
+git push origin master
+gcc -v
+lsusb
+sudo pacman -S lsusb
+sudo lsusb
+sudo reboot
+sudo wifi-menu
+startx
+xset s off
+xset -dpms
+cd builds
+wget https://downloads.raspberrypi.org/raspbian_lite_latest
+trizen github-desktop
+cd Downloads
+unzip bd3afe06e69d00f4a4b3072e160e58ba.ico.zip
+sudo dd if=/home/lutherus/builds/raspbian_lite_latest of=/dev/sdb
+clear
+nmap -sP 192.168.1.1/24
+sudo pacman -Rnsc github-desktop
+sudo pacman -Rns $(pacman -Qtdq)
+cd git/vbaksapage
+ls
+git clone https://github.com/lutherush/vbaksa.github.io
+ls
+git add --all
+git init
+git add --all
+ls
+git commit -m "Initial commit"
+git push -u origin master
+git add .
+git push -u origin master
+git add --all
+ls
+git remote add origin https://github.com/lutherush/vbaksa.github.io.git\
+
+git push -u origin master
+git remote add origin git@github.com:lutherush/vbaksa.github.io.git
+git push -u origin master
+ls
+rm -rf vbaksa.github.io
+rm -rf vbaksa
+git add --all
+git push -u origin master
+git add .
+git push -u origin master
+git commit -m "initial commit"
+git push -u origin master
+cd builds/git/lutherush.github.io
+vim README.md
+rm -rf README.md
+cd
+clear
+cd builds
+cd git/lutherush.github.io
+ls
+echo "# lutherus.github.io" >> README.md
+git init
+git add --all
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:lutherush/lutherus.github.io.git
+git push -u origin master
+cd
+cd builds/git
+ls
+git clone https://github.com/lutherush/lutherus.github.io
+cd lutherus.github.io
+ls
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
+cd builds/git/lutherus.github.io
+echo "# vebaksa.github.io" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/vebaksa/vebaksa.github.io.git
+git add --all
+git remote add origin https://github.com/vebaksa/vebaksa.github.io.git
+git push -u origin master
+git add --all
+git add .
+git commit -m "Initial commit"
+git push -u origin master
+cd
+cd builds/git/lutherush.github.io
+clear
+vim index.html
+git add --all
+git init
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
+git commit -m "Initial commit"
+git push -u origin master
+git commit -m "first commit"
+git push -u origin master
+cat $(git rev-parse --show-toplevel)/.git/config\
+
+cd
+cd builds
+cat $(git rev-parse --show-toplevel)/.git/config\
+
+git clone https://github.com/lutherush/lutherush.github.io
+cd lutherush.github.io
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
+cd .git
+ls
+ls -a
+git pull
+git push -u origin master
+sudo pacman -Syy
+cd builds
+git clone https://github.com/agurodriguez/bashme.git
+cd bashme
+ls
+rm -rf .git
+rm -rf .gitignore 
+clear
+cd builds/git/vbaksa-cv-rust
+cargo run
+vim src/main.rs
+cd builds
+git clone https://github.com/JacFearsome/powershell-terminal-nodejs.git
+cd powershell-terminal-nodejs
+node server.js
+npm install
+cd
+cd Downloads
+unzip 2020-02-13-raspbian-buster-lite.zip
+sudo dd if=/home/lutherus/Downloads/2020-02-13-raspbian-buster-lite.img of=/dev/sdb
+npm start
+..
+http://localhos:7878/
+git clone https://github.com/NLDev/Terminal-Browser.git && cd Terminal-Browser
+git clone https://github.com/asianjakepaul/Terminal-Browser.git
+cd Terminal-Browser
+npm install
+npm start
+npm start
+cd builds
+git clone https://github.com/Azgaar/Fantasy-Map-Generator.git
+cd Fantasy-Map-Generator
+ls
+npm install
+npm start
+yarn start
+yarn install
+npm install yarn
+yarn start
+,,
+..
+git clone https://github.com/theoperatore/character.git
+cd character
+yarn install
+npm install yarn
+yarn instal
+yarn install
+sudo pacman -S yarn
+yarn install
+yarn start
+echo "Hello there" ; echo "General Kenobi"
+sudo pacman -S julia
+clear
+cd scripts/nodejs
+ls
+mkdir tutorial
+cd tutorial
+vim
+cd scripts/nodejs/tutorial
+node app.js
+npm install
+npm start
+npm start
+node app.js
+npm npm install -g prettier
+npm install -g prettier
+    git clone https://github.com/itchyny/lightline.vim ~/.vim/pack/plugins/start/lightline
+vim app.js
+mkdir -p ~/.vim/pack/tpope/start
+cd ~/.vim/pack/tpope/start
+git clone https://tpope.io/vim/surround.git
+vim -u NONE -c "helptags surround/doc" -c q
+git clone https://github.com/preservim/nerdtree.git ~/.vim/pack/vendor/start/nerdtree
+vim -u NONE -c "helptags ~/.vim/pack/vendor/start/nerdtree/doc" -c q
+vim app.js
+node app.js
+clear
+cd 
+vim .vimrc
+node app.js
+npm init
+ls
+vim .config/zsh.d/functions
+vim .config/zsh.d/aliases
+vimtex
+vimoy
+vimpy
+vim app.js
+node app
+node app.js
+node app.js
+node app.js
+node app.js
+cd builds/lutherush.github.io
+cd css
+ls
+vim resume.css
+node app.js
+cat app.js > text.txt
+node app.js
+ls
+..
+mkdir tutorial2
+cd tutorial2
+touch index.html
+touch script.js
+\:q
+vim ~/.vimrc
+vim index.html
+vim .vimrc
+git clone git://github.com/jiangmiao/auto-pairs.git ~/.vim/bundle/auto-pairs
+git clone https://github.com/mattn/emmet-vim.git ~/.vim/bundle/emmet-vim\
+
+cd scripts
+index.html
+touch index.html
+vim index.html
+vim ~/.vimrc
+vim index.html
+cd .vim/bundle
+git clone https://github.com/mattn/emmet-vim.git
+ls
+rm -rf  emmet-vim
+git clone https://github.com/mattn/emmet-vim.git
+cd 
+cd scripts
+vim index.html
+cd scripts
+vim index.html
+cd scripts
+vim index.html
+cd 
+vim .vimrc
+vim scripts/index.html
+cd scripts
+mkdir cpp
+cd cpp
+mkdir android
+cd android
+touch vim README.md
+vim README.md
+cd
+sudo pacman -S code
+cd
+clear
+mkdir -p ~/.vim/pack/airblade/start
+cd ~/.vim/pack/airblade/start
+git clone https://github.com/airblade/vim-gitgutter.git
+vim -u NONE -c "helptags vim-gitgutter/doc" -c q\
+
+vim builds/git/vbaksa-cv-rust/Cargo.toml
+mkdir -p ~/.vim/pack/tpope/start
+cd ~/.vim/pack/tpope/start
+git clone https://tpope.io/vim/fugitive.git
+vim -u NONE -c "helptags fugitive/doc" -c q
+mkdir -p ~/.vim/pack/tpope/start
+cd ~/.vim/pack/tpope/start
+git clone https://tpope.io/vim/surround.git
+vim -u NONE -c "helptags surround/doc" -c q\
+
+vim
+cd
+sudp pacman -S vim-pathogen
+sudo pacman -S vim-pathogen
+trizen vim-pathogen
+cd .vim
+ls
+cd bundle
+ls
+rm -rf emmet-vim
+..
+git clone https://github.com/mattn/emmet-vim.git ~/.vim/bundle/emmet-vim
+vim ~/scripts/index.html
+vim ~/.vimrc
+vim ~/scripts/index.html
+git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
+~/.fzf/install
+vim
+trizen vim-supertab
+trizen vim-nerdcommenter
+trizen vim-emmet
+  git clone https://github.com/pangloss/vim-javascript.git ~/.vim/bundle/vim-javascript
+vim .vimrc
+sudo pacman -S emacs
+cds Downloads
+ls
+cd configs
+ls
+..
+cd .vim
+ls
+cd bundle
+ls
+rm -rf emmet-vim
+vim ~/scripts/nodejs/tutorial/app.js
+trizen emmet-vim
+vim ~/scripts/index.html
+vim .vimrc
+vim .vimrc
+trizen vim-calendar
+vim .vimrc
+cd Downloads
+cd dotfiles-master
+ls
+ls -a
+cp -r .emacs.d 
+cp -r .emacs.d  ~/
+cd
+cd .emacs.d
+ls
+vim init.e
+vim README.md
+git clone https://github.com/hlissner/doom-emacs ~/.emacs.d
+~/.emacs.d/bin/doom install
+git clone --recursive https://github.com/davidhalter/jedi-vim.git ~/.vim/bundle/jedi-vim
+emacs
+emacs -nw
+emacs -nw .vimrc
+cd scripts
+touch app.py
+vim app.py
+vim ~/.config/zsh.d/aliases
+emacs
+emacs -nw
+cd ~/.vim/bundle
+git clone https://github.com/plasticboy/vim-markdown.git
+cd ~/.vim/bundle
+git clone https://github.com/tomtom/tlib_vim.git
+git clone https://github.com/MarcWeber/vim-addon-mw-utils.git
+git clone https://github.com/garbas/vim-snipmate.git
+vim
+trizen vim-rainbow
+vim .vimrc
+vim
+vim
+vim .config/zsh.d/aliases
+emacs
+cd scripts/nodejs/tutorial2
+ls
+vim script.js
+touch package.json
+vim package.json
+echo '{"presets": ["es2015", "react"]}' >> .babelrc\
+
+mkdir server && touch .server/server.js\
+
+mkdir server && touch .server/server.js\
+
+mkdir .server && touch .server/server.js\
+
+vim .server/server.js
+ mkdir public && touch public/index.html\
+
+vim public/index.html
+npm start
+npm install
+npm start
+mv .server ~/scripts/nodejs/tutorial2\
+
+mkdir server && touch server/server.js\
+
+vim server/server.js
+npm start
+npm install react
+npm start
+touch webpack.config.js
+vi  webpack.config.js
+vim webpack.config.js
+npm install --save-dev babel-loader
+mkdir client && touch client/index.js
+vim client/index.js
+npm install -save react react-dom
+npm audit fix
+vim public/index.html
+vim package.json
+npm run webpack
+npm install
+npm audit fix
+npm install
+npm run webpack
+npm start
+ mkdir client/styles && touch client/styles/main.css
+vim client/styles/main.css
+vim public/index.html
+cd builds/git/vbaksa-cv-rust
+cargo run
+sudo 
+sdo pacman -Rnsc code
+sudo pacman -Rnsc code
+cd builds
+git clone https://github.com/powerline/fonts.git
+git clone https://github.com/avischiffmann/Coronavirus-Dashboard.git
+cd powershell-terminal-nodejs
+cd
+cd builds
+ls
+cd fonts
+ls
+./install.sh
+mkdir ~/.local/share/fonts
+./install.sh
+cd configs/dwm
+make
+make
+cd
+cd builds
+git clone https://github.com/sebastiencs/icons-in-terminal.git
+cd icons-in-terminal
+./install.sh
+./print_icons.sh
+./print_icons.sh > icons.txt
+ cd
+cd builds
+git clone https://git.suckless.org/dwm
+cd dwm
+wget https://dwm.suckless.org/patches/uselessgap/dwm-uselessgap-6.2.diff
+patch -p1  < dwm-uselessgap-6.2.diff
+wget https://dwm.suckless.org/patches/pertag/dwm-pertag-20170513-ceac8c9.diff
+patch -p1  < dwm-pertag-20170513-ceac8c9.diff
+make 
+sudo make install
+cd
+cd Downloads/dotfiles-master/dwm
+make
+sudo make install
+startx
+sudo pacman -Syy
+sudo pacman -Syu
+curl https://corona-stats.online
+curl https://corona-stats.online/croatia
+curl https://corona-stats.online/croatia
+npm install -g corona-cli\
+
+sudo npm install -g corona-cli\
+
+corona
+corona croatia
+ 4sudo npm uninstall corona
+ sudo npm uninstall corona
+cd builds
+git clone https://github.com/ahmadawais/corona-cli.git
+cd corona-cli
+ls
+vim package.json
+vim index.js
+vim changelog.md
+vim code-of-conduct.md
+vim code-of-conduct.md
+vim readme.md
+vim test.js
+cd utils
+ls
+vim cli.js
+vim get
+vim getCountry.js
+vim getWorldwide.js
+vim init.js
+vim table.js
+vim theEnd.js
+..
+npm install
+npm start
+corona coratia
+corona croatia
+\:q
+clear
+ls
+npm-uninstall corona
+npm uninstall -g corona
+corona
+ls
+vim index.js
+vim package.json
+vim test.js
+cd utils
+vim cli.js
+vim getAll.js
+..
+npm install coronavirus-tracker-cli -g
+sudo npm install coronavirus-tracker-cli -g
+..
+rm -rf corona-cli
+corona
+sudo npm uninstall corona -S
+corona
+sudo pacman -Rnsc nodejs
+sudo pacman -Rnsc nodejs
+sudo pacman -Rns $(pacman -Qtdq)\
+
+sudo pacman -Rns $(pacman -Qtdq)\
+
+corona
+sudo pacman -S nodejs yarn
+corona
+npm uninstall -g corona-cli
+sudo pacman -S npm
+npm uninstall -g corona-cli
+sudo npm uninstall -g corona-cli
+corona
+clear
+git clone https://github.com/sagarkarira/coronavirus-tracker-cli.git
+sudo pacman -S vue-cli
+trizen vue-cli
+trizen create-react-app
+emacs ~/builds/git/vbaksa-cv-rust/src/main.rs
+clea
+clear
+vim ~/builds/git/vbaksa-cv-rust/src/main.rs 
+vim .vimrc
+xset x odd
+xset x of
+xset -dpms
+sudo pacman -Rnsc emacs
+trizen vim-fzf
+trizen ultisnipets
+trizen vim-ultisnipets
+trzien vim-snipmate
+trizen vim-snipmate
+trizen snipmate
+vim
+vim .vimrc
+vim
+vim .vimrc
+vim builds/coronavirus-tracker-cli/app.js
+trizen vim-fugitive
+cd builds
+git clone https://github.com/RamiKrispin/coronavirus_dashboard.git
+git clone https://github.com/nicoFhahn/covid_shiny.git
+cd covid_shiny
+packages = c("dotenv", "fresh", "leaflet", "plotly", "readr", "sf", "shiny", "stringr")
+runGitHub("covid_shiny", "nicoFhahn")
+R -e "shiny::runApp('~/shinyapp')"
+,,
+..
+cd Coronavirus-Dashboard
+l
+snpm install
+npm install
+npm start
+yarn start
+..
+xset s off
+xset -dpms
+sudo pacman -S xsetroot
+vim .xinitrc
+sudo pacman -S xorg-xsetroot
+startx
+vim .xinitrc
+startx
+vim .config/dwm/autostart.sh
+startx
+vim .dwm/autostart.sh
+startx
+xset s off
+xset -dpms
+sudo pacman -S mongodb
+sudo pacman -S mongodb
+trizen mongodb
+trizen mongodb-tools
+sudo npm install -s nextjs
+sudo npm install -s next.js
+sudo     npm install -g typescript
+npm install --global coffeescript
+sudo npm install --global coffeescript
+trizen mongodb
+sudo npm install -g d3js
+sudo npm install -g treejs
+sudo npm install -g chartjs
+sudo npm install -g backbonejs
+cd scripts
+vim
+touch page.html
+vim page.html
+vim page.html
+mkdir html5
+mv page.html ~/scripts/html5
+cd html5
+ls
+clear
+touch page.css
+vim page.css
+vim page.html
+mv page.css style.css
+ls
+sudo pacman -S julia
+sudo npm install -g tensorflowjs
+sudo pacman -S code
+javascript
+node
+clear
+sudo timedatectl set-ntp true
+ ntpd -u ntp:ntp\
+
+ntpdate pool.ntp.org
+timedatectl
+timedatectl | grep local
+cd builds/git/vbaksa-resume.github.io
+touch README.md
+vim README.md
+vim README.md
+git push origin master
+git push origin master
+ d
+cd
+cd configs
+ls
+rm -rf gentoo-dotfiles
+rm -rf NCC-1701-E-dotfiles
+la
+cd 
+cp -r .config ~/config

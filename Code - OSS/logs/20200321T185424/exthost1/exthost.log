@@ -1,0 +1,200 @@
+[2020-03-21 18:54:26.553] [exthost] [info] extension host started
+[2020-03-21 18:54:26.591] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onLanguage:html"}
+[2020-03-21 18:54:26.592] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2020-03-21 18:54:26.613] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-03-21 18:54:26.613] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/html-language-features/client/dist/htmlMain
+[2020-03-21 18:54:26.659] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-03-21 18:54:26.659] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2020-03-21 18:54:26.661] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-03-21 18:54:26.661] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2020-03-21 18:54:26.681] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-03-21 18:54:26.681] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2020-03-21 18:54:26.684] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-03-21 18:54:26.684] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/search-result/dist/extension.js
+[2020-03-21 18:54:26.685] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-03-21 18:54:26.685] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/vscode-account/dist/extension.js
+[2020-03-21 18:54:26.687] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-03-21 18:54:26.687] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lutherus/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.1.1/client/out/extension
+[2020-03-21 18:54:26.694] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"*"}
+[2020-03-21 18:54:26.695] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main
+[2020-03-21 18:54:26.799] [exthost] [error] Activating extension ms-vscode.cpptools failed due to an error:
+[2020-03-21 18:54:26.806] [exthost] [error] Error: Cannot find module 'vscode-nls'
+Require stack:
+- /home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js
+- /usr/lib/code/out/vs/loader.js
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+	at Function.Module._resolveFilename (internal/modules/cjs/loader.js:627:15)
+	at Function.Module._load (internal/modules/cjs/loader.js:531:27)
+	at Function.t._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:837:268)
+	at Function.n._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:807:106)
+	at Function.i._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:803:550)
+	at Module.require (internal/modules/cjs/loader.js:685:19)
+	at n (/usr/lib/code/out/vs/loader.js:15:524)
+	at Object.<anonymous> (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:1130:18)
+	at __webpack_require__ (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:21:30)
+	at Object.<anonymous> (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:14851:13)
+	at __webpack_require__ (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:21:30)
+	at Object.<anonymous> (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:32969:38)
+	at __webpack_require__ (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:21:30)
+	at Object.<anonymous> (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:7797:26)
+	at __webpack_require__ (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:21:30)
+	at Object.<anonymous> (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:10116:22)
+	at __webpack_require__ (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:21:30)
+	at Object.<anonymous> (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:6136:27)
+	at __webpack_require__ (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:21:30)
+	at Object.<anonymous> (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:137:21)
+	at __webpack_require__ (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:21:30)
+	at Object.<anonymous> (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:12205:14)
+	at __webpack_require__ (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:21:30)
+	at Object.<anonymous> (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:22172:27)
+	at __webpack_require__ (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:21:30)
+	at /home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:85:18
+	at Object.<anonymous> (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:88:10)
+	at Module.o._compile (/usr/lib/code/out/vs/loader.js:15:749)
+	at Object.Module._extensions..js (internal/modules/cjs/loader.js:798:10)
+	at Module.load (internal/modules/cjs/loader.js:645:32)
+	at Function.Module._load (internal/modules/cjs/loader.js:560:12)
+	at Function.t._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:837:268)
+	at Function.n._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:807:106)
+	at Function.i._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:803:550)
+	at Module.require (internal/modules/cjs/loader.js:685:19)
+	at require (internal/modules/cjs/helpers.js:16:16)
+	at Function.s [as __$__nodeRequire] (/usr/lib/code/out/vs/loader.js:32:963)
+	at d._loadCommonJSModule (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:808:241)
+	at d._doActivateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:708:856)
+	at d._activateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:707:840)
+	at Object.actualActivateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:705:796)
+	at d._activateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:516:206)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:515:900
+	at Array.map (<anonymous>)
+	at d._activateExtensions (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:515:888)
+	at d.activateByEvent (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:513:635)
+	at d._activateByEvent (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:706:535)
+	at d._handleEagerExtensions (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:710:328)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:713:872
+[2020-03-21 18:54:26.806] [exthost] [info] eager extensions activated
+[2020-03-21 18:54:50.396] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-03-21 18:54:50.396] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/extension-editing/dist/extension
+[2020-03-21 18:54:50.412] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:typescript"}
+[2020-03-21 18:54:50.412] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/typescript-language-features/dist/extension
+[2020-03-21 18:54:53.003] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2020-03-21 18:54:53.003] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/configuration-editing/dist/extension
+[2020-03-21 18:54:53.013] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2020-03-21 18:54:53.013] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/json-language-features/client/dist/jsonMain
+[2020-03-21 18:54:53.069] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2020-03-21 18:54:53.069] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/npm/dist/main
+[2020-03-21 18:54:58.444] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":false,"extensionId":{"value":"ecmel.vscode-html-css","_lower":"ecmel.vscode-html-css"},"activationEvent":"onLanguage:html"}
+[2020-03-21 18:54:58.444] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lutherus/.vscode-oss/extensions/ecmel.vscode-html-css-0.2.3/dist/extension
+[2020-03-21 18:55:13.072] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"extensionId":{"value":"vscode.python","_lower":"vscode.python"},"activationEvent":"onLanguage:python"}
+[2020-03-21 18:55:13.072] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/python/dist/pythonMain
+[2020-03-21 18:55:13.074] [exthost] [info] ExtensionService#_doActivateExtension tht13.python {"startup":false,"extensionId":{"value":"tht13.python","_lower":"tht13.python"},"activationEvent":"onLanguage:python"}
+[2020-03-21 18:55:13.075] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lutherus/.vscode-oss/extensions/tht13.python-0.2.3/out/client/src/pythonMain
+[2020-03-21 18:55:13.151] [exthost] [error] Activating extension tht13.python failed due to an error:
+[2020-03-21 18:55:13.151] [exthost] [error] TypeError: Cannot read property 'document' of undefined
+	at PythonExtension.startServer (/home/lutherus/.vscode-oss/extensions/tht13.python-0.2.3/out/client/src/pythonMain.js:154:55)
+	at activate (/home/lutherus/.vscode-oss/extensions/tht13.python-0.2.3/out/client/src/pythonMain.js:9:38)
+	at Function._callActivateOptional (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:710:141)
+	at Function._callActivate (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:709:810)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:708:960
+	at async Promise.all (index 1)
+[2020-03-21 18:55:21.667] [exthost] [info] ExtensionService#_doActivateExtension lonefy.vscode-JS-CSS-HTML-formatter {"startup":false,"extensionId":{"value":"lonefy.vscode-JS-CSS-HTML-formatter","_lower":"lonefy.vscode-js-css-html-formatter"},"activationEvent":"onLanguage:json"}
+[2020-03-21 18:55:21.668] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lutherus/.vscode-oss/extensions/lonefy.vscode-js-css-html-formatter-0.2.3/out/src/extension
+[2020-03-21 18:55:32.200] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.Go {"startup":false,"extensionId":{"value":"ms-vscode.Go","_lower":"ms-vscode.go"},"activationEvent":"workspaceContains:**/*.go"}
+[2020-03-21 18:55:32.200] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lutherus/.vscode-oss/extensions/ms-vscode.go-0.13.1/out/src/goMain
+[2020-03-21 18:55:41.555] [exthost] [info] ExtensionService#_doActivateExtension leizongmin.node-module-intellisense {"startup":false,"extensionId":{"value":"leizongmin.node-module-intellisense","_lower":"leizongmin.node-module-intellisense"},"activationEvent":"onLanguage:javascript"}
+[2020-03-21 18:55:41.555] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lutherus/.vscode-oss/extensions/leizongmin.node-module-intellisense-1.5.0/out/src/extension
+[2020-03-21 18:55:44.376] [exthost] [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv {"startup":false,"extensionId":{"value":"mechatroner.rainbow-csv","_lower":"mechatroner.rainbow-csv"},"activationEvent":"onLanguage:plaintext"}
+[2020-03-21 18:55:44.376] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lutherus/.vscode-oss/extensions/mechatroner.rainbow-csv-1.6.0/extension
+[2020-03-21 18:55:51.443] [exthost] [info] ExtensionService#_doActivateExtension rust-lang.rust {"startup":false,"extensionId":{"value":"rust-lang.rust","_lower":"rust-lang.rust"},"activationEvent":"workspaceContains:Cargo.toml"}
+[2020-03-21 18:55:51.443] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lutherus/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/extension.js
+[2020-03-21 18:55:54.631] [exthost] [info] ExtensionService#_doActivateExtension mgmcdermott.vscode-language-babel {"startup":false,"extensionId":{"value":"mgmcdermott.vscode-language-babel","_lower":"mgmcdermott.vscode-language-babel"},"activationEvent":"onLanguage:javascript"}
+[2020-03-21 18:55:54.631] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lutherus/.vscode-oss/extensions/mgmcdermott.vscode-language-babel-0.0.26/dist/extension
+[2020-03-21 18:56:42.345] [exthost] [info] ExtensionService#_doActivateExtension tht13.html-preview-vscode {"startup":false,"extensionId":{"value":"tht13.html-preview-vscode","_lower":"tht13.html-preview-vscode"},"activationEvent":"onLanguage:html"}
+[2020-03-21 18:56:42.345] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lutherus/.vscode-oss/extensions/tht13.html-preview-vscode-0.2.5/out/extension.js
+[2020-03-21 18:56:46.915] [exthost] [info] extension host started
+[2020-03-21 18:56:46.933] [exthost] [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv {"startup":false,"extensionId":{"value":"mechatroner.rainbow-csv","_lower":"mechatroner.rainbow-csv"},"activationEvent":"onLanguage:plaintext"}
+[2020-03-21 18:56:46.933] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lutherus/.vscode-oss/extensions/mechatroner.rainbow-csv-1.6.0/extension
+[2020-03-21 18:56:46.936] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-03-21 18:56:46.936] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2020-03-21 18:56:46.939] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-03-21 18:56:46.939] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2020-03-21 18:56:46.952] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-03-21 18:56:46.952] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2020-03-21 18:56:46.973] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-03-21 18:56:46.973] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2020-03-21 18:56:46.975] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-03-21 18:56:46.975] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/search-result/dist/extension.js
+[2020-03-21 18:56:46.977] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-03-21 18:56:46.977] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/vscode-account/dist/extension.js
+[2020-03-21 18:56:46.978] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-03-21 18:56:46.978] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lutherus/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.1.1/client/out/extension
+[2020-03-21 18:56:46.983] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"extensionId":{"value":"vsciot-vscode.vscode-arduino","_lower":"vsciot-vscode.vscode-arduino"},"activationEvent":"*"}
+[2020-03-21 18:56:46.983] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main
+[2020-03-21 18:56:47.080] [exthost] [error] Activating extension ms-vscode.cpptools failed due to an error:
+[2020-03-21 18:56:47.086] [exthost] [error] Error: Cannot find module 'vscode-nls'
+Require stack:
+- /home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js
+- /usr/lib/code/out/vs/loader.js
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+	at Function.Module._resolveFilename (internal/modules/cjs/loader.js:627:15)
+	at Function.Module._load (internal/modules/cjs/loader.js:531:27)
+	at Function.t._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:837:268)
+	at Function.n._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:807:106)
+	at Function.i._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:803:550)
+	at Module.require (internal/modules/cjs/loader.js:685:19)
+	at n (/usr/lib/code/out/vs/loader.js:15:524)
+	at Object.<anonymous> (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:1130:18)
+	at __webpack_require__ (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:21:30)
+	at Object.<anonymous> (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:14851:13)
+	at __webpack_require__ (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:21:30)
+	at Object.<anonymous> (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:32969:38)
+	at __webpack_require__ (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:21:30)
+	at Object.<anonymous> (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:7797:26)
+	at __webpack_require__ (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:21:30)
+	at Object.<anonymous> (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:10116:22)
+	at __webpack_require__ (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:21:30)
+	at Object.<anonymous> (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:6136:27)
+	at __webpack_require__ (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:21:30)
+	at Object.<anonymous> (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:137:21)
+	at __webpack_require__ (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:21:30)
+	at Object.<anonymous> (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:12205:14)
+	at __webpack_require__ (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:21:30)
+	at Object.<anonymous> (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:22172:27)
+	at __webpack_require__ (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:21:30)
+	at /home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:85:18
+	at Object.<anonymous> (/home/lutherus/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main.js:88:10)
+	at Module.o._compile (/usr/lib/code/out/vs/loader.js:15:749)
+	at Object.Module._extensions..js (internal/modules/cjs/loader.js:798:10)
+	at Module.load (internal/modules/cjs/loader.js:645:32)
+	at Function.Module._load (internal/modules/cjs/loader.js:560:12)
+	at Function.t._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:837:268)
+	at Function.n._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:807:106)
+	at Function.i._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:803:550)
+	at Module.require (internal/modules/cjs/loader.js:685:19)
+	at require (internal/modules/cjs/helpers.js:16:16)
+	at Function.s [as __$__nodeRequire] (/usr/lib/code/out/vs/loader.js:32:963)
+	at d._loadCommonJSModule (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:808:241)
+	at d._doActivateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:708:856)
+	at d._activateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:707:840)
+	at Object.actualActivateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:705:796)
+	at d._activateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:516:206)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:515:900
+	at Array.map (<anonymous>)
+	at d._activateExtensions (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:515:888)
+	at d._activateExtensions (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:515:957)
+	at d.activateByEvent (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:513:635)
+	at d._activateByEvent (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:706:535)
+	at d._handleEagerExtensions (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:710:328)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:713:872
+	at processTicksAndRejections (internal/process/task_queues.js:89:5)
+[2020-03-21 18:56:47.448] [exthost] [info] eager extensions activated
+[2020-03-21 18:56:48.449] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":false,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2020-03-21 18:56:48.450] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lutherus/.vscode-oss/extensions/formulahendry.auto-rename-tag-0.1.1/out/src/extension
+[2020-03-21 18:56:49.366] [exthost] [info] ExtensionService#_doActivateExtension batisteo.vscode-django {"startup":false,"extensionId":{"value":"batisteo.vscode-django","_lower":"batisteo.vscode-django"},"activationEvent":"onLanguage:django-html"}
+[2020-03-21 18:56:49.366] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lutherus/.vscode-oss/extensions/batisteo.vscode-django-0.20.0/out/extension
+[2020-03-21 18:56:54.287] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":false,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2020-03-21 18:56:54.288] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lutherus/.vscode-oss/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2020-03-21 18:57:06.252] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onCommand:code-runner.run"}
+[2020-03-21 18:57:06.252] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/lutherus/.vscode-oss/extensions/formulahendry.code-runner-0.9.17/out/src/extension
